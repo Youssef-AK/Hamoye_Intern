@@ -13,4 +13,4 @@ The Data Science Internship Program offers you an opportunity to boost your care
 - Mathematics and mathematical modelling
 - Collaboration and cognitive science
 
-![text raw](https://nitter.nixnet.services/pic/media%2FE1BZpjeXsAQl2_K.jpg%3Fname%3Dsmall?raw=true)
+![text raw](https://miro.medium.com/max/1024/1*LgiF19QZ9Vnn4AKxLgAiMA.png?raw=true)
